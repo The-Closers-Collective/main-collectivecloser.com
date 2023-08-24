@@ -668,7 +668,7 @@ progress {
   }
 }
 .row {
-  --bs-gutter-x: 1.5rem;
+  --bs-gutter-x: 1rem;
   --bs-gutter-y: 0;
   display: flex;
   flex-wrap: wrap;
@@ -2948,8 +2948,8 @@ textarea.form-control-lg {
 
 .btn-light {
   --bs-btn-color: #fff;
-  --bs-btn-bg: rgba(65, 23, 131, 1);
-  --bs-btn-border-color: rgba(65, 23, 131, 1);
+  --bs-btn-bg: #ffc107;
+  --bs-btn-border-color: #ffc107;
   --bs-btn-hover-color: #fff;
   --bs-btn-hover-bg: #000;
   --bs-btn-hover-border-color: #000;
